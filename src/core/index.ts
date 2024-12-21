@@ -1,1 +1,1 @@
-// Core module exports
+// Export des fonctionnalités core
