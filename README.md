@@ -1,15 +1,1 @@
-# Nocodenew
-
-Plateforme no-code pour la création d'applications mobiles.
-
-## Installation
-
-```bash
-npm install
-```
-
-## Développement
-
-```bash
-npm run dev
-```
+IyBOb2NvZGVuZXcKClBsYXRlZm9ybWUgbm8tY29kZSBwb3VyIGxhIGNyw6lhdGlvbiBkJ2FwcGxpY2F0aW9ucyBtb2JpbGVzLgoKIyMgSW5zdGFsbGF0aW9uCgpgYGBiYXNoCm5wbSBpbnN0YWxsCmBgYAoKIyMgRMOpdmVsb3BwZW1lbnQKCmBgYGJhc2gKbnBtIHJ1biBkZXYKYGBg
